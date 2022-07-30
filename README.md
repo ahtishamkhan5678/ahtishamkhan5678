@@ -38,7 +38,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohamma23568021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma23568021" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad ahtisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ahtisham" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-ahtisham-85a17a228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ahtisham" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCsxwht_uFh_G_iGmfNRs1bQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsxwht_ufh_g_igmfnrs1bq/featured" height="30" width="40" /></a>
 </p>
 
