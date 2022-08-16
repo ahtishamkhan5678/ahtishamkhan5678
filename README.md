@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **Masai School (Backend Developer)**
 - 💬 Ask me about **Java**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mohammadahtishamprtfoli.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](ahtishamportfolio.netlify.app)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/10a82S-jTPD1dQvmZqwUhHEXnLRkTV7hp/view?usp=sharing)
 - 📫 How to reach me: ...**mohammadahtishamofficial@gmail.com**
 - 😄 Pronouns: ...@mohammad
