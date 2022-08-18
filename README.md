@@ -37,7 +37,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtishamkhan5678&show_icons=true&locale=en&theme=tokyonight" alt="ahtishamkhan5678" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahtishamkhan5678&&theme=tokyonight" alt="ahtishamkhan5678" /></p>
 
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
