@@ -4,10 +4,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h1 align="center">여러분(Hello everyone),👨‍💻안녕하세요 👋</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahtishamkhan5678&label=Profile%20views&color=0e75b6&style=flat" alt="ahtishamkhan5678" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahtishamkhan5678" alt="ahtishamkhan5678" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahtishamkhan5678" alt="ahtishamkhan5678" /></a> </p> ! -->
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
 
 - 🔭 I’m currently working on **MySkill😄**
