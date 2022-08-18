@@ -48,6 +48,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
+<p>&nbsp;<img  align="left"  src= "https://activity-graph.herokuapp.com/graph?username=ahtishamkhan5678&theme=xcode"/></p>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -58,6 +59,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahtishamkhan5678&show_icons=true&locale=en&layout=compact" alt="ahtishamkhan5678" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtishamkhan5678&show_icons=true&locale=en" alt="ahtishamkhan5678" /></p>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
