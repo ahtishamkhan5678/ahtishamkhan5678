@@ -19,11 +19,25 @@
 - 😄 Pronouns: ...@mohammad
 - ⚡ Fun fact: ...Always smile😄 in tough situation
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<p>&nbsp;<img  align="left"  src= "https://activity-graph.herokuapp.com/graph?username=ahtishamkhan5678&theme=xcode"/></p>
+
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 
 
+<h2><i>My GitHub Stats</i></h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahtishamkhan5678&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ahtishamkhan5678" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtishamkhan5678&show_icons=true&locale=en&theme=tokyonight" alt="ahtishamkhan5678" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahtishamkhan5678&&theme=tokyonight" alt="ahtishamkhan5678" /></p>
 
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -41,24 +55,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<h3 >Contributions Chart :</h3>
-
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-
-<p>&nbsp;<img  align="left"  src= "https://activity-graph.herokuapp.com/graph?username=ahtishamkhan5678&theme=xcode"/></p>
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahtishamkhan5678&show_icons=true&locale=en&layout=compact" alt="ahtishamkhan5678" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtishamkhan5678&show_icons=true&locale=en" alt="ahtishamkhan5678" /></p>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
