@@ -22,10 +22,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2><i>My GitHub Stats</i></h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahtishamkhan5678&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ahtishamkhan5678" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahtishamkhan5678&label=Profile%20views&color=0e75b6&style=flat" alt="ahtishamkhan5678" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtishamkhan5678&show_icons=true&locale=en&theme=tokyonight" alt="ahtishamkhan5678" /></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahtishamkhan5678" alt="ahtishamkhan5678" /></a> </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p>&nbsp;<img  align="left"  src= "https://activity-graph.herokuapp.com/graph?username=ahtishamkhan5678&theme=xcode"/></p>
