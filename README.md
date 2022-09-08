@@ -1,4 +1,4 @@
-                                                         <!----Heading --------------------------->
+                                                        
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Mohammad+Ahtisham!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Backend Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-                                                         <!----About Me --------------------------->
+                                                       
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **Masai School (Backend Developer)**
 - 💬 Ask me about **Java**
@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-                                                         <!---- My GitHub Stats --------------------------->
+                                                       
 <h2><i>My GitHub Stats</i></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahtishamkhan5678&label=Profile%20views&color=0e75b6&style=flat" alt="ahtishamkhan5678" /> </p>
 
@@ -40,7 +40,7 @@
 
 
 <div align="center">  
-                                                          <!---- Connect with me --------------------------->
+                                                         
 <h3 align="left">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/mohamma23568021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma23568021" height="30" width="40" /></a>
@@ -51,7 +51,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-                                                           <!----Tech Stack --------------------------->
+                                                          
 
 <h3 align="left">🛠 &nbsp;Tech Stack </h3>
 
