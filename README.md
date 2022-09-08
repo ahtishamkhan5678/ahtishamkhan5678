@@ -21,6 +21,7 @@
 
                                                        
 <h2><i>My GitHub Stats</i></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahtishamkhan5678&label=Profile%20views&color=0e75b6&style=flat" alt="ahtishamkhan5678" /> </p>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahtishamkhan5678&show_icons=true&locale=en" alt="ahtishamkhan5678"  height="139" />
