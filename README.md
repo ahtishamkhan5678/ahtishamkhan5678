@@ -23,10 +23,10 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtishamkhan5678&show_icons=true&locale=en" alt="ahtishamkhan5678" /></p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahtishamkhan5678&show_icons=true&locale=en" alt="ahtishamkhan5678"  height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtishamkhan5678&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="ahtishamkhan5678" height="139" />
 </p>
-<br>
+
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
