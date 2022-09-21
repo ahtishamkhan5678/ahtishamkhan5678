@@ -15,7 +15,7 @@
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Dbg0g_-gXZrjv0g0i9ooHXtVtqsvmSR_/view?usp=sharing)
 - 📫 How to reach me: ...**mohammadahtishamofficial@gmail.com**
 - 😄 Pronouns: ...@mohammad
-- ⚡ Fun fact: ...Always smile😄 in tough situation
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
