@@ -1,5 +1,6 @@
                                                         
-![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+<!-- ![MasterHead](https://im.ezgif.com/tmp/ezgif-1-90cc371bad.gif) -->
+<img src="https://im.ezgif.com/tmp/ezgif-1-90cc371bad.gif" width="89%"/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Mohammad+Ahtisham!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -28,7 +29,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtishamkhan5678&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="ahtishamkhan5678" height="139" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ahtishamkhan5678&theme=xcode" height ="307"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=ahtishamkhan5678&theme=xcode" height ="313"/>
 
 ![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
 
@@ -77,5 +78,5 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
 
-<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+<p align="left"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="89%"></p>
 
