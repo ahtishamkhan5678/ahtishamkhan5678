@@ -1,6 +1,6 @@
                                                         
 <!-- ![MasterHead](https://im.ezgif.com/tmp/ezgif-1-90cc371bad.gif) -->
-<img src="https://im.ezgif.com/tmp/ezgif-1-90cc371bad.gif" width="89%"/>
+<img src="https://im.ezgif.com/tmp/ezgif-1-90cc371bad.gif" width="100%"/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Mohammad+Ahtisham!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -78,5 +78,5 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
 
-<p align="left"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="89%"></p>
+<p align="left"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></p>
 
