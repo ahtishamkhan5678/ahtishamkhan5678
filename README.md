@@ -23,8 +23,8 @@
                                                        
 <p align="center">
 <a href="https://github.com/ahtishamkhan5678">
-  <img align="left" height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahtishamkhan5678&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="right" height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahtishamkhan5678&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="left" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahtishamkhan5678&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahtishamkhan5678&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align="centre">
