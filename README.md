@@ -20,7 +20,8 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-                                                       
+
+<h2><i>My GitHub Stats</i></h2>                                                       
 <p align="center">
 <a href="https://github.com/ahtishamkhan5678">
   <img align="left" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahtishamkhan5678&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
