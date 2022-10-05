@@ -1,3 +1,4 @@
+![Blue   White Modern Gamming Channel Youtube Intro Video (2)](https://user-images.githubusercontent.com/100846744/194007965-e09bb75d-f6e5-40b6-8201-95c3859d7301.gif)
 
 
 <!--                                                        
