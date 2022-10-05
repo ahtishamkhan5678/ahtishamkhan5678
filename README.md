@@ -1,4 +1,4 @@
-![Blue   White Modern Gamming Channel Youtube Intro Video (2)](https://user-images.githubusercontent.com/100846744/194007965-e09bb75d-f6e5-40b6-8201-95c3859d7301.gif)
+<img src="https://user-images.githubusercontent.com/100846744/194007965-e09bb75d-f6e5-40b6-8201-95c3859d7301.gif" width=100%  height=390/>
 
 
 <!--                                                        
@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <h1 align="center"> 😇(Hello everyone)"أسلم ولكم" 👋</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
- <img  align="right" alt="Coding" width="260" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">
+ <img  align="right" alt="Coding" width="230" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">
    
  
 - 🔭 I’m currently working on **MySkill😄**
