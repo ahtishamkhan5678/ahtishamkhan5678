@@ -1,14 +1,18 @@
-                                                        
- ![MasterHead](https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133) 
+
+
+<!--                                                        
+ ![MasterHead](https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)  -->
+ 
+ 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FFA500&amp;size=20&amp;lines=Hey!+It's+Mohammad+Ahtisham!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <h1 align="center"> 😇(Hello everyone)"أسلم ولكم" 👋</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-                                                       
+ <img  align="right" alt="Coding" width="260" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">
+   
+ 
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **Masai School (Backend Developer)**
 - 💬 Ask me about **Java**
