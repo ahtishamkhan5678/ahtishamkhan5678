@@ -7,7 +7,7 @@
 
  
 
-<img  align="left" src="https://user-images.githubusercontent.com/100846744/194108231-10cb3752-5cb5-4a5c-8c40-84cacb6d49db.png" width="100%" height="350">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FFA500&amp;size=20&amp;lines=Hey!+It's+Mohammad+Ahtisham!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <h1 align="center"> 😇(Hello everyone)"أسلم ولكم" 👋</h1>
