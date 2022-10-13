@@ -8,7 +8,7 @@
  
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=9BE2FF&amp;size=20&amp;lines=Hey!+It's+Mohammad+Ahtisham!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FFE45C&amp;size=20&amp;lines=Hey!+It's+Mohammad+Ahtisham!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <h1 align="center"> 😇(Hello everyone)"أسلم ولكم" 👋</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
@@ -86,7 +86,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=9BE2FF&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=067FD0&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
 
 <p align="left"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></p>
 
