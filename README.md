@@ -53,7 +53,7 @@
 
 <div align="center">  
                                                          
-<h3 align="center">Connect with me</h3>
+<h2 align="center">Connect with me</h2>
 <hr>
 <p align="center">
 <a href="https://twitter.com/mohamma23568021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma23568021" height="30" width="40" /></a>
@@ -66,7 +66,7 @@
 
                                                           
 
-<h3 align="center">🛠 &nbsp;Tech Stack </h3>
+<h2 align="center">🛠 &nbsp;Tech Stack </h2>
 <hr>
 <div align="center">  
 	
