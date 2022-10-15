@@ -27,7 +27,8 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 
-<h2><i>My GitHub Stats</i></h2>                                                       
+<h2 align="center"><i>My GitHub Stats</i></h2>    
+<hr>
 <p align="center">
 <a href="https://github.com/ahtishamkhan5678">
   <img align="left" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahtishamkhan5678&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -52,7 +53,8 @@
 
 <div align="center">  
                                                          
-<h3 align="left">Connect with me</h3>
+<h3 align="center">Connect with me</h3>
+<hr>
 <p align="center">
 <a href="https://twitter.com/mohamma23568021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma23568021" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-ahtisham-85a17a228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ahtisham" height="30" width="40" /></a>
@@ -64,8 +66,8 @@
 
                                                           
 
-<h3 align="left">🛠 &nbsp;Tech Stack </h3>
-
+<h3 align="center">🛠 &nbsp;Tech Stack </h3>
+<hr>
 <div align="center">  
 	
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
