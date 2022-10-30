@@ -70,18 +70,95 @@
 
                                                           
 
-<h2 align="center">🛠 &nbsp;Tech Stack </h2>
 
-<div align="center">  
 	
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  <img style="margin: 10px" src="https://cdn.svgporn.com/logos/hibernate.svg" alt="Hibernate" height="50" />
-  <img style="margin: 10px" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" alt="Spring_Boot" height="50" />	
+ <h2 align="center" border="0">🛠 &nbsp;
+	Tech Stack </h2>
+
+<br>
+
+<table align="center">
+
+<tbody>
+
+ <tr valign="top">
+
+<td width="25%" align="center">
+
+<span>Java</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>MySQL</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Hibernate</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/hibernate.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Spring Boot</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+
+</td>
+
+</tr>
+ 
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗖𝗦𝗦𝟯</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+
+</td>
+
+
+<td width="25%" align="center">
+
+<span>𝗚𝗶𝘁-Hub</span><br><br>
+
+<img height="64px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+
+</td>
+
+
+</tr>
+
+</tbody>
+
+</table>
 <!--    -->
 
 <!--    --> 
