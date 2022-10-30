@@ -31,27 +31,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 
-<h2 align="center"><i>My GitHub Stats</i></h2>    
 
-<p align="center">
-<a href="https://github.com/ahtishamkhan5678">
-  <img align="left" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahtishamkhan5678&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="right" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahtishamkhan5678&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<p align="centre">
-	
-	
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahtishamkhan5678&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
-
-![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-
-	
 
  <h2 align="center" border="0">🛠 &nbsp;
 	Tech Stack </h2>
@@ -147,6 +127,28 @@
 
 
 </div>  
+
+<h2 align="center"><i>My GitHub Stats</i></h2>    
+
+<p align="center">
+<a href="https://github.com/ahtishamkhan5678">
+  <img align="left" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahtishamkhan5678&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="right" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahtishamkhan5678&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<p align="centre">
+	
+	
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahtishamkhan5678&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+
+
+![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+
+	
 
 <div align="center">  
                                                          
