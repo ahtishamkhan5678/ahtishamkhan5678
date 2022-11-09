@@ -152,7 +152,7 @@
 
 <div align="center">  
                                                          
-<h2 align="center">Connect with me</h2>
+<h2 align="center">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></h2>
 
 <p align="center">
 <a href="https://twitter.com/mohamma23568021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma23568021" height="30" width="40" /></a>
