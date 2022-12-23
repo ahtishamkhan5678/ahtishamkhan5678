@@ -75,6 +75,16 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
 
 </td>
+	 
+</td>
+
+<td width="25%" align="center">
+
+<span>Spring Boot</span><br><br>
+
+<img height="64px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png">
+
+</td>
 
 </tr>
  
@@ -113,6 +123,17 @@
 
 </td>
 
+</td>
+
+
+<td width="25%" align="center">
+
+<span>JWT</span><br><br>
+
+<img height="64px" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png">
+
+</td>	
+	
 
 </tr>
 
