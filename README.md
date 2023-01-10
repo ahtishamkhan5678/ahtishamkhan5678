@@ -22,10 +22,10 @@
 - 🌱 I’m currently learning **Masai School (Backend Developer)**
 - 💬 Ask me about **Java**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ahtishamkhan5678.github.io/MyPortfolio-main/)
--  📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1l6X28jrLl-cZRHbmTGbKXIrDMEx3QLkB?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1l6X28jrLl-cZRHbmTGbKXIrDMEx3QLkB?usp=sharing)
 - 📫 How to reach me: ...**mohammadahtishamofficial@gmail.com**
 - 😄 Pronouns: ...@mohammad
-
+- 👥 <a align="right" href="https://github.com/ahtishamkhan5678?tab=followers"><img src="https://img.shields.io/github/followers/ahtishamkhan5678? label=Followers&style=social" alt="GitHub Badge"></a>
    
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -162,6 +162,12 @@
 	
 <!-- 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahtishamkhan5678&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p> -->
+
+<a href="https://github.com/ahtishamkhan5678"><img alt="ahtishamkhan5678 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ahtishamkhan5678&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
+
 
 
 <!-- ![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
