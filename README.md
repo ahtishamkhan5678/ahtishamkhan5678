@@ -31,10 +31,10 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+
+
 <br>
-
-<h2 align="center"><i>Languages & Tools 🛠 </i></h2>    
-
+<h2 align="center"><i>Languages & Tools 🛠 </i></h2>  
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://cdn.svgporn.com/logos/spring.svg" alt="Spring_Boot"></code>
@@ -45,6 +45,7 @@
 <code><img height="40" width="40" src="https://cdn.svgporn.com/logos/html-5.svg" alt="Html"></code>
 <code><img height="40" width="40" src="https://cdn.svgporn.com/logos/css-3.svg" alt="css"></code>
 <code><img height="40" width="40" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript"></code>	
+
 #	
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png?20170812110931" alt="Swagger"></code>
 <code><img height="40" width="40" src="https://ahtishamkhan5678.github.io/MyPortfolio-main/post.png" alt="Postman"></code>
