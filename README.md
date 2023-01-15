@@ -26,13 +26,15 @@
 - 📫 How to reach me: ...**mohammadahtishamofficial@gmail.com**
 - 😄 Pronouns: ...@mohammad
 - 👥 <a align="right" href="https://github.com/ahtishamkhan5678?tab=followers"><img src="https://img.shields.io/github/followers/ahtishamkhan5678? label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- - <img src="https://visitor-badge.glitch.me/badge?page_id=ahtishamkhan5678" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> -->
    
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <br>
 
-𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂 🛠 
+<h2 align="center"><i>Languages & Tools 🛠 </i></h2>    
+
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://cdn.svgporn.com/logos/spring.svg" alt="Spring_Boot"></code>
