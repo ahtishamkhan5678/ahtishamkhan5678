@@ -30,124 +30,31 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-
-
-
- <h2 align="center" border="0">🛠 &nbsp;
-	Tech Stack </h2>
-
 <br>
 
-<table align="center">
-
-<tbody>
-
- <tr valign="top">
-
-<td width="25%" align="center">
-
-<span>Java</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>MySQL</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>Hibernate</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/hibernate.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>Spring Boot</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
-
-</td>
-	 
-</td>
-
-<!-- <td width="25%" align="center">
-
-<span>Spring Boot</span><br><br>
-
-<img height="64px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png">
-
-</td> -->
-
-</tr>
- 
-<tr valign="top">
-
-<td width="25%" align="center">
-
-<span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗖𝗦𝗦𝟯</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-
-</td>
+𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂 🛠 
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://cdn.svgporn.com/logos/spring.svg" alt="Spring_Boot"></code>
+<code><img height="40" width="40" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" alt="JWT"></code>
+<code><img height="40" width="40" src="https://cdn.svgporn.com/logos/hibernate.svg" alt="Hibernate"></code>
+<code><img height="40" width="40" src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySql"></code>
+<code><img height="40" width="40" src="https://cdn.svgporn.com/logos/java.svg" alt="Java"></code>
+<code><img height="40" width="40" src="https://cdn.svgporn.com/logos/html-5.svg" alt="Html"></code>
+<code><img height="40" width="40" src="https://cdn.svgporn.com/logos/css-3.svg" alt="css"></code>
+<code><img height="40" width="40" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript"></code>	
+#	
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png?20170812110931" alt="Swagger"></code>
+<code><img height="40" width="40" src="https://ahtishamkhan5678.github.io/MyPortfolio-main/post.png" alt="Postman"></code>
+<code><img height="40" width="40" src="https://ahtishamkhan5678.github.io/MyPortfolio-main/intelli.png" alt="Intellij"></code>
+<code><img height="40" width="40" src="https://ahtishamkhan5678.github.io/MyPortfolio-main/vs.png" alt="Vs Code"></code>
+<code><img height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Gitbash"></code>
+<code><img height="40" width="40" src="https://ahtishamkhan5678.github.io/MyPortfolio-main/git.png" alt="Github"></code>
 
 
-<td width="25%" align="center">
+<br/>
 
-<span>𝗚𝗶𝘁-Hub</span><br><br>
-
-<img height="64px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
-
-</td>
-
-</td>
-
-
-<!-- <td width="25%" align="center">
-
-<span>JWT</span><br><br>
-
-<img height="64px" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png">
-
-</td>	 -->
-	
-
-</tr>
-
-</tbody>
-
-</table>
-<!--    -->
-
-<!--    --> 
-
-
-
-
-</div>  
+#
 
 <h2 align="center"><i>My GitHub Stats</i></h2>    
 
