@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **Masai School (Backend Developer)**
 - 💬 Ask me about **Java**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ahtishamkhan5678.github.io/MyPortfolio-main/)
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1l6X28jrLl-cZRHbmTGbKXIrDMEx3QLkB?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fs5eS7A2usetCKguaT8M6zmhme7LvHHq/view?usp=sharing)
 - 📫 How to reach me: ...**mohammadahtishamofficial@gmail.com**
 - 😄 Pronouns: ...@mohammad
 - 👥 <a align="right" href="https://github.com/ahtishamkhan5678?tab=followers"><img src="https://img.shields.io/github/followers/ahtishamkhan5678? label=Followers&style=social" alt="GitHub Badge"></a>
