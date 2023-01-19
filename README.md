@@ -32,10 +32,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 
+# 💻Tech Stacks
+<!-- <br>
 
-<br>
-<h2 align="center"><i>Languages & Tools 🛠 </i></h2>  
-<br/>
+<br/> -->
 <br/>
 <code><img height="40" width="40" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" alt="Spring_Boot"></code>
 <code><img height="40" width="40" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" alt="JWT"></code>
@@ -46,11 +46,13 @@
 <code><img height="40" width="40" src="https://cdn.svgporn.com/logos/css-3.svg" alt="css"></code>
 <code><img height="40" width="40" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript"></code>	
 
-#	
+# 💻Familier Tools
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" alt="apachenetbeans"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png?20170812110931" alt="Swagger"></code>
 <code><img height="40" width="40" src="https://ahtishamkhan5678.github.io/MyPortfolio-main/post.png" alt="Postman"></code>
 <code><img height="40" width="40" src="https://ahtishamkhan5678.github.io/MyPortfolio-main/intelli.png" alt="Intellij"></code>
 <code><img height="40" width="40" src="https://ahtishamkhan5678.github.io/MyPortfolio-main/vs.png" alt="Vs Code"></code>
+<code><img height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-svg-vector.svg" alt="Netlify"></code>
 <code><img height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Gitbash"></code>
 <code><img height="40" width="40" src="https://ahtishamkhan5678.github.io/MyPortfolio-main/git.png" alt="Github"></code>
 
