@@ -94,9 +94,11 @@
 <h2 align="center">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></h2>
 
 <p align="center">
+<a href="https://www.upwork.com/freelancers/~01c2e5091e0da05e41" target="blank"><img align="center" src="https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png" alt="upworklogo" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-ahtisham-85a17a228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ahtisham" height="30" width="40" /></a>	
 <a href="https://twitter.com/mohamma23568021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma23568021" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-ahtisham-85a17a228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ahtisham" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCsxwht_uFh_G_iGmfNRs1bQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsxwht_ufh_g_igmfnrs1bq/featured" height="30" width="40" /></a>
+	
 </p>
 </div>  
 
