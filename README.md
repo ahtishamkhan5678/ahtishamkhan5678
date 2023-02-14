@@ -47,7 +47,7 @@
 <code><img height="40" width="40" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript"></code>	
 
 # 💻Familier Tools
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" alt="apachenetbeans"></code>
+<code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/thumb/netbeans-5728461-4781225.png" alt="apachenetbeans"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png?20170812110931" alt="Swagger"></code>
 <code><img height="40" width="40" src="https://ahtishamkhan5678.github.io/MyPortfolio-main/post.png" alt="Postman"></code>
 <code><img height="40" width="40" src="https://ahtishamkhan5678.github.io/MyPortfolio-main/intelli.png" alt="Intellij"></code>
