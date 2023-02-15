@@ -17,15 +17,14 @@
 <h3 align="center">A passionate Backend Developer from India</h3>
  <img  align="right" alt="Coding" width="230" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">
    
- 
-- 🔭 I’m currently working on **MySkill😄**
-- 🌱I've completed my course and received certification from [Masai School](https://drive.google.com/file/d/1Ws-iQGV56b43vcFodcoYjKBaLyPEKSNH/view?usp=sharing) 
+
+- 🔭I've completed my course and received certification from [Masai School](https://drive.google.com/file/d/1Ws-iQGV56b43vcFodcoYjKBaLyPEKSNH/view?usp=sharing) 
  Alhamdulillah! 
 - 💬 Ask me about **Java**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ahtishamkhan5678.github.io/MyPortfolio-main/)
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fs5eS7A2usetCKguaT8M6zmhme7LvHHq/view?usp=sharing)
 - 📫 How to reach me: ...**mohammadahtishamofficial@gmail.com**
-- 😄 Pronouns: ...@mohammad
+- 😇 Pronouns: ...@mohammad
 
    
 
