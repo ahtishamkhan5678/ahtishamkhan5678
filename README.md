@@ -25,8 +25,7 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fs5eS7A2usetCKguaT8M6zmhme7LvHHq/view?usp=sharing)
 - 📫 How to reach me: ...**mohammadahtishamofficial@gmail.com**
 - 😄 Pronouns: ...@mohammad
-- 👥 <a align="right" href="https://github.com/ahtishamkhan5678?tab=followers"><img src="https://img.shields.io/github/followers/ahtishamkhan5678? label=Followers&style=social" alt="GitHub Badge"></a>
-<!-- - <img src="https://visitor-badge.glitch.me/badge?page_id=ahtishamkhan5678" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> -->
+
    
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
