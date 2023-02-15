@@ -19,7 +19,8 @@
    
  
 - 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning **Masai School (Backend Developer)**
+- 🌱I've completed my course and received certification from [Masai School](https://drive.google.com/file/d/1Ws-iQGV56b43vcFodcoYjKBaLyPEKSNH/view?usp=sharing) 
+ Alhamdulillah! 
 - 💬 Ask me about **Java**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ahtishamkhan5678.github.io/MyPortfolio-main/)
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fs5eS7A2usetCKguaT8M6zmhme7LvHHq/view?usp=sharing)
