@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/100846744/194007965-e09bb75d-f6e5-40b6-8201-95c3859d7301.gif" width=100%  height=390/>
+![White Minimalist Corporate Personal Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/100846744/221899392-8cd5049c-e351-4fe6-9221-5ee95aa27301.gif)
+<!-- <img src="https://user-images.githubusercontent.com/100846744/194007965-e09bb75d-f6e5-40b6-8201-95c3859d7301.gif" width=100%  height=390/> -->
+
 
 
 <!--                                                        
