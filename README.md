@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FFBF00&amp;size=20&amp;lines=Hey!+It's+Mohammad+Ahtisham!;A+Java+Back-end+Developer...👨🏻‍💻;" style="width: 100%;">
      
-      👉 "Life is all about calculus if u solve it u feel interesting otherwise u feel boring" 👈 written by Mohammad Ahtisham
+     
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <h1 align="center"> 😇(Hello everyone)"أسلم ولكم" 👋</h1>
