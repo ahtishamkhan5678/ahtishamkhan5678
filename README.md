@@ -48,7 +48,7 @@
 <code><img height="40" width="40" src="https://cdn.svgporn.com/logos/java.svg" alt="Java"></code>
 <code><img height="40" width="40" src="https://cdn.svgporn.com/logos/html-5.svg" alt="Html"></code>
 <code><img height="40" width="40" src="https://cdn.svgporn.com/logos/css-3.svg" alt="css"></code>
-<code><img height="40" width="40" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript"></code>	
+<code><img height="40" width="40" src="https://www.citypng.com/public/uploads/small/11662226392uom4gsi9ddb1c81ipfx2u4imargvwq7uskhdui1pj4f6xufjz0jkfzqzduhjuifts0dzcnykgszw6isfutq2nlwb51ef4gm0dt8d.png" alt="JavaScript"></code>	
 
 # 💻Familier Tools
 <code><img height="40" width="40" src="https://cdn3d.iconscout.com/3d/free/thumb/netbeans-5728461-4781225.png" alt="apachenetbeans"></code>
