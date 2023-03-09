@@ -28,7 +28,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ahtishamkhan5678.github.io/MyPortfolio-main/)
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fs5eS7A2usetCKguaT8M6zmhme7LvHHq/view?usp=sharing)
 - 📫 How to reach me: ...**mohammadahtishamofficial@gmail.com**
-- ⚡ I'm not worried about making mistakes, I'm worried if a solution for that mistake does not exist" 😇 
+<!-- - ⚡ I'm not worried about making mistakes, I'm worried if a solution for that mistake does not exist" 😇  -->
 
    
 
