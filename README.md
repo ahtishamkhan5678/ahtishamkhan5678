@@ -21,13 +21,14 @@
  <img  align="right" alt="Coding" width="230" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">
    
 
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 🔭I've completed my course and received certification from [Masai School](https://drive.google.com/file/d/1rFghhzWU606smcJnrnkp4FNbT8QBKuE2/view?usp=sharing)
  Alhamdulillah! 
-- 💬 Ask me about **Java**
+- 📫 [My LinkedIn Profile](https://www.linkedin.com/in/mohammad-ahtisham-85a17a228/)
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ahtishamkhan5678.github.io/MyPortfolio-main/)
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fs5eS7A2usetCKguaT8M6zmhme7LvHHq/view?usp=sharing)
 - 📫 How to reach me: ...**mohammadahtishamofficial@gmail.com**
-- 😇 Pronouns: ...@mohammad
+- ⚡ I'm not worried about making mistakes, I'm worried if a solution for that mistake does not exist" 😇 
 
    
 
