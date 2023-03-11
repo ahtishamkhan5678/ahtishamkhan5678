@@ -21,7 +21,7 @@
  <img  align="right" alt="Coding" width="230" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">
    
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
+<!-- - 🌱 I’m currently learning Data Structures and Algorithms. -->
 - 🔭I've completed my course and received certification from [Masai School](https://drive.google.com/file/d/1rFghhzWU606smcJnrnkp4FNbT8QBKuE2/view?usp=sharing)
  Alhamdulillah! 
 - 📫 [My LinkedIn Profile](https://www.linkedin.com/in/mohammad-ahtisham-85a17a228/)
