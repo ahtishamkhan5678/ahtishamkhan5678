@@ -17,7 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <!-- <h1 align="center"> 😇(Hello everyone)"أسلم ولكم" 👋</h1> -->
-<h3 align="center">A passionate Backend Developer from India</h3>
+<!-- <h3 align="center">A passionate Backend Developer from India</h3> -->
  <img  align="right" alt="Coding" width="230" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">
    
 
