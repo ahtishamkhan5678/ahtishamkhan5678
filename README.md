@@ -11,7 +11,7 @@
  
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FFBF00&amp;size=20&amp;lines=Hey!+It's+Mohammad+Ahtisham!;A+FullStack+Developer...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFBF00&size=20&lines=Hey!+I'm+Mohammad+Ahtisham;Frontend+Focused+Full+Stack+Developer+👨🏻‍💻;React+|+Next.js+|+Java+|+Spring+Boot" width="100%"/>
      
      
 
@@ -20,8 +20,31 @@
 <!-- <h3 align="center">A passionate Backend Developer from India</h3> -->
  <img  align="right" alt="Coding" width="230" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">
    
+### 👋 About Me
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
+Frontend-focused **Full Stack Web Developer with 2+ years of professional experience**, specializing in building **scalable, high-performance, and user-centric web applications**.
+
+- 💼 Frontend Developer at **Phantasm Solutions Pvt Ltd**
+- ⚛️ Strong expertise in **React.js, Next.js, Redux Toolkit**
+- 🚀 Built **10+ production-grade applications** (B2B, B2C, E-commerce)
+- 💳 Integrated **NMI & Razorpay** payment gateways (PCI-compliant)
+- 📈 Improved performance & engagement with **code-splitting, lazy loading**
+- 🎯 Passionate about **clean UI, performance, and scalable architecture**
+
+📍 India | 🌍 Open to remote opportunities
+
+---
+
+### 🔗 Quick Links
+- 💼 **Portfolio:** https://ahtishamkhan5678.github.io/MyPortfolio-main/
+- 📄 **Resume:** https://drive.google.com/file/d/1fs5eS7A2usetCKguaT8M6zmhme7LvHHq/view
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/mohammadahtisham-85a17a228/
+- 📧 **Email:** mohammadahtishamofficial@gmail.com
+- 🎥 **YouTube:** https://youtube.com/@mohammadahtisham786
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<!-- - 🌱 I’m currently learning Data Structures and Algorithms.
 - 🔭I've completed my course and received certification from [Masai School](https://drive.google.com/file/d/1rFghhzWU606smcJnrnkp4FNbT8QBKuE2/view?usp=sharing)
  Alhamdulillah! 
 - 📫 [My LinkedIn Profile](https://www.linkedin.com/in/mohammad-ahtisham-85a17a228/)
@@ -29,7 +52,7 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fs5eS7A2usetCKguaT8M6zmhme7LvHHq/view?usp=sharing)
 - 📫 How to reach me: ...**mohammadahtishamofficial@gmail.com**
 - 🎥 Part-time  👉 [YouTuber](https://youtube.com/@mohammadahtisham786) 📹 Go and Suscribe 😇
-- 😇 Also you can Search me on Google by Mohammad Ahtisham
+- 😇 Also you can Search me on Google by Mohammad Ahtisham -->
 <!-- - ⚡ I'm not worried about making mistakes, I'm worried if a solution for that mistake does not exist" 😇  -->
 
    
