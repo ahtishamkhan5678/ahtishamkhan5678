@@ -36,7 +36,7 @@ Frontend-focused **Full Stack Web Developer with 2+ years of professional experi
 ---
 
 ### 🔗 Quick Links
-- 💼 **Portfolio:** https://ahtishamkhan5678.github.io/MyPortfolio-main/
+- 💼 **Portfolio:** https://portfolio-v-2-1-o4f5.vercel.app/
 - 📄 **Resume:** https://drive.google.com/file/d/1fs5eS7A2usetCKguaT8M6zmhme7LvHHq/view
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/mohammadahtisham-85a17a228/
 - 📧 **Email:** mohammadahtishamofficial@gmail.com
